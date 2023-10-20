@@ -125,3 +125,16 @@ body {
 .opacity-low {
   opacity: 0.5;
 }
+@media (max-width: 767px){
+  .container{
+      margin-left: -10px;
+  }
+  .text {
+      justify-content: center;
+      margin-top: -30px ;
+      margin-bottom: 230px;
+  }
+  .container-right{
+      margin-right: -69px;
+  }
+}
