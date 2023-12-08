@@ -160,17 +160,16 @@ Welcome to Arts and Design is a type of blog that will showcase different kinds 
 		  <div class="row">
 			<div class="col-md-8 col-sm-6 col-xs-12">
 			  <p class="copyright-text">Copyright &copy; 2017 All Rights Reserved by 
-		   <a href="#">Arts and Design Blog</a>.
+		   <a href="#">Arts and Design Blog.</a>
 			  </p>
 			</div>
   
 			<div class="col-md-4 col-sm-6 col-xs-12">
 			  <ul class="social-icons">
-			  <div class="icons">
-					<i class="fa fa-facebook"></i>
-					<i class="fa fa-twitter"></i>
-					<i class="fa fa-instagram"></i>
-					<i class="fa fa-linkedin"></i>  
+			  <a href="#" target="_blank" class="social-icons"><i class="fa fa-facebook"></i>
+			  <a href="#" target="_blank" class="social-icons"><i class="fa fa-twitter"></i>
+			  <a href="#" target="_blank" class="social-icons"><i class="fa fa-instagram"></i>
+			  <a href="#" target="_blank" class="social-icons"><i class="fa fa-linkedin"></i>  
 			  </ul>
 			</div>
 		  </div>
