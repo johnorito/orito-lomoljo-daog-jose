@@ -6,12 +6,23 @@
 .header{
 	min-height: 100vh;
 	width: 100%;
-	background-image:url(images/2bd.jpg);
 	background-position: center;
 	background-size: cover;
 	position: relative;
-	
+	animation: image 3s infinite alternate;	
 }	
+@keyframes image {
+	0% {
+	  background-image: url(images/3bd.jpg);
+	}
+	50% {
+	  background-image: url(images/2bd.jpg);
+	}
+	100%{
+		background-image: url(images/1bd.jpg);
+	 }
+  }
+
 nav{
 	display: flex;
 	padding: 2% 6%;
